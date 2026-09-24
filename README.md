@@ -32,3 +32,4 @@ Each stay card and the book panel link to Airbnb Instant Book:
 
 - Modern 2BR: https://www.airbnb.com/rooms/1725747304300638396
 - Furnished 2BR + EV: https://www.airbnb.com/rooms/1691664304254164466
+- Cozy 2BR Retreat: https://www.airbnb.com/rooms/1781890063243931094
