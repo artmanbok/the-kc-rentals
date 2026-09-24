@@ -10,7 +10,7 @@ Static marketing site for **The KC Rentals** (host: Emmanuel), furnished stays n
 ## Files
 
 - `index.html` — landing page (hero, stays with photo galleries, `#book` Instant Book panel, why us, FAQ, contact)
-- `book.html` — dedicated Instant Book page with all four Airbnb Instant Book links
+- `book.html` — dedicated Instant Book page with all five Airbnb Instant Book links
 - `styles.css` — mobile-first hospitality styles (DM Sans + Fraunces)
 - `images/` — real property photos downloaded from the host’s Airbnb listings (compressed JPEG)
 
