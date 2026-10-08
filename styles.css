@@ -241,6 +241,28 @@ p { margin: 0 0 1rem; }
   max-width: 40rem;
 }
 
+.superhost-badge {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  width: fit-content;
+  margin: 0 0 1rem;
+  padding: 0.35rem 0.9rem;
+  background: var(--white);
+  border: 1px solid rgba(196, 92, 38, 0.35);
+  border-radius: 999px;
+  box-shadow: 0 4px 14px rgba(42, 33, 24, 0.08);
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--terracotta-deep);
+}
+
+.superhost-star {
+  color: var(--terracotta);
+  font-size: 1rem;
+  line-height: 1;
+}
+
 .eyebrow {
   display: inline-block;
   font-size: 0.8rem;
